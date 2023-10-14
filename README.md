@@ -1,3 +1,5 @@
+# This repository contains a Jupyter Notebook that demonstrates an anomaly detection model available in `anomalib` library. Namely: PaDiM: A Patch Distribution Modeling Framework for Anomaly Detection in MVTec dataset. This method is implemented using the anomalib library in Python.
+
 ## Image Anomaly Detection
 
 Detecting anomalies in images is a popular application of anomaly detection.
